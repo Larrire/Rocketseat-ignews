@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Eita preula</title>
+        <title>ig.news</title>
       </Head>
       <h1>
         Hello world<span>!</span>
